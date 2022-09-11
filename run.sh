@@ -36,3 +36,4 @@ docker compose up pgadmin -d
 # -------------------------------------------------------------------------------
 # install dependencies required to run my server
 # path where package.json is located
+
